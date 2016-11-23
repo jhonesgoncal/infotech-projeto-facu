@@ -1,0 +1,72 @@
+*{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.logo{
+    margin-top:-5px;
+    width:200px;
+    height:35px;
+}
+
+body{
+    padding-top:50px;
+}
+
+.navbar-brand{
+    font-weight: 800;
+}
+
+.divslider{
+    padding-top:15px;
+    padding-bottom:15px;
+    background: url('img/image1.jpg');
+}
+
+section{
+    padding-top:25px;
+    padding-bottom: 15px;
+    min-height:100vh;
+}
+
+footer{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: #DCDCDC;
+}
+
+.servicos-item *{
+    text-align: center;
+}
+
+.servicos-item p{
+    text-align: justify;
+}
+
+.servicos-item h4{
+    padding-top: 30px;
+}
+
+.contato textarea{
+    height:220px;
+}
+
+.contato .aviso{
+    padding:15px;
+    font-size: 20px;
+}
+
+.todos-os-servicos{
+    margin-top: 30px;
+}
+
+.div-colorida{
+    background-color:
+}
+
+.portfolio-item h4{
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
